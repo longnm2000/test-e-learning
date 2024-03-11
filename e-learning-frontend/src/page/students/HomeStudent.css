@@ -1,0 +1,10 @@
+.course-image {
+  background-image: url(https://s3-alpha-sig.figma.com/img/328d/795a/73dba521bc990ce38c0d3526f3f4f347?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OwM1Cac4v52rDc1kZiet2gXZMJhsigRBoT9-3BY0YI29b5mtyYiic6IB3I7-JIPh0tKjVX6MmGrnLBLxTVlYyKFRDFIKYqo6FGu217ha5xz0PUZE7WUvZbcLNAVslWiB37xHuCulGhVsOyC6FGnx0cTYLg4ptr~oWz4CYQg8jZqwyJB6AQAw2kkJQnSsFfTSjc4-eZcXLqU9oRAPthZP-vi8z94BOVou91GLaZLmWr6Z3YBU~iD~pIKdoEj7660qMoyl59E9bmWzgIehRnLqt08fsRF4U6lfbm7tR9Ize~TSTWXp53I9zjNQed0YCQO94sJY--QuLFlrx24IznC90A__);
+  object-fit: fill;
+  background-size: cover; /* Thuộc tính quan trọng để thu nhỏ hình nền */
+}
+.participating-image {
+  background-image: url(https://s3-alpha-sig.figma.com/img/328d/795a/73dba521bc990ce38c0d3526f3f4f347?Expires=1710720000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OwM1Cac4v52rDc1kZiet2gXZMJhsigRBoT9-3BY0YI29b5mtyYiic6IB3I7-JIPh0tKjVX6MmGrnLBLxTVlYyKFRDFIKYqo6FGu217ha5xz0PUZE7WUvZbcLNAVslWiB37xHuCulGhVsOyC6FGnx0cTYLg4ptr~oWz4CYQg8jZqwyJB6AQAw2kkJQnSsFfTSjc4-eZcXLqU9oRAPthZP-vi8z94BOVou91GLaZLmWr6Z3YBU~iD~pIKdoEj7660qMoyl59E9bmWzgIehRnLqt08fsRF4U6lfbm7tR9Ize~TSTWXp53I9zjNQed0YCQO94sJY--QuLFlrx24IznC90A__);
+  object-fit: fill;
+  background-size: cover; /* Thuộc tính quan trọng để thu nhỏ hình nền */
+}
